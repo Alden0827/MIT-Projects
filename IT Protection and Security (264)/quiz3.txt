@@ -1,0 +1,473 @@
+Skip to Content
+Home
+Courses
+Groups
+Resources
+More
+1
+11
+
+ALDEN QUIÑONES
+IT Protection and Security: MIT 264
+Quiz on Application Security
+Submissions EnabledThis assessment is currently accepting submissions
+Grade:N/A
+View Grade Information. Opens a dialogue
+Questions 1-40 of 40 | Page 1 of 1
+Question 1 (1 point)
+A user enters ' OR '1'='1 in a login field and gains access to the system.
+What is the vulnerability and how can it be prevented?
+
+ a
+CSRF; Add a CAPTCHA
+ b
+Privilege Escalation; Disable copy-paste
+ c
+XSS; Use HTTPS
+ d
+SQL Injection; Use parameterized queries
+Question 2 (1 point)
+Why is it important to secure applications in cloud-native environments?
+
+ a
+Applications are less complex in the cloud
+ b
+Cloud environments are inherently secure
+ c
+Security measures are not necessary in the cloud
+ d
+Applications are often connected across multiple networks and are vulnerable to threats
+Question 3 (1 point)
+Which of the following is an example of a security control in application security?
+
+ a
+User interface redesign
+ b
+Feature enhancement
+ c
+Performance optimization
+ d
+Code obfuscation
+Question 4 (1 point)
+What is the purpose of Application Security Orchestration and Correlation (ASOC)?
+
+ a
+Centralize security alerts for better risk understanding
+ b
+Enhance user experience
+ c
+Increase application load speed
+ d
+Improve application aesthetics
+Question 5 (1 point)
+Which of these is considered an internal application threat?
+
+ a
+DDoS attack
+ b
+Malware from an external USB
+ c
+Misuse of access by an employee
+ d
+SQL injection by a hacker
+Question 6 (1 point)
+An app uses an old library with known vulnerabilities for convenience.
+What is the risk?
+
+ a
+Authorization bypass
+ b
+Broken authentication
+ c
+Insecure defaults
+ d
+Use of vulnerable components
+Question 7 (1 point)
+Application security controls are designed to:
+
+ a
+Enhance application speed
+ b
+Simplify user navigation
+ c
+Respond to unexpected inputs and reduce risk
+ d
+Improve application aesthetics
+Question 8 (1 point)
+An employee views HR data not intended for their role by typing a direct URL.
+What is the vulnerability?
+
+ a
+Session hijacking
+ b
+Insecure deserialization
+ c
+Broken access control
+ d
+Brute force attack
+Question 9 (1 point)
+An attacker accesses admin features using default credentials (admin/admin123).
+Which best practice was violated?
+
+ a
+Strong encryption
+ b
+Password reuse
+ c
+Use of default credentials
+ d
+Multifactor authentication
+Question 10 (1 point)
+Which of the following security principles ensures that users only access data necessary for their job?
+
+ a
+Least Privilege
+ b
+Availability
+ c
+Non-repudiation
+ d
+Encryption
+Question 11 (1 point)
+What is the main focus of Static Application Security Testing (SAST)?
+
+ a
+Monitoring application behavior at runtime
+ b
+Simulating real-world attacks
+ c
+Analyzing source code for vulnerabilities
+ d
+Testing application APIs
+Question 12 (1 point)
+Which of the following is an example of a proactive application security measure?
+
+ a
+User access reviews
+ b
+Incident response planning
+ c
+Regular security patching
+ d
+Post-breach analysis
+Question 13 (1 point)
+The OWASP Top Ten is:
+
+ a
+A list of the ten most critical web application security risks
+ b
+A ranking of the fastest applications
+ c
+A government cyber policy
+ d
+A malware removal toolkit
+Question 14 (1 point)
+Which of the following is most closely related to zero trust security in applications?
+
+ a
+Continuous authentication and authorization
+ b
+Allowing access once per session
+ c
+Trusting pre-approved devices
+ d
+Always assuming a secure internal network
+Question 15 (1 point)
+Vulnerabilities are found after an app goes live due to no early security testing.
+What approach solves this?
+
+ a
+Load balancing
+ b
+DevSecOps (shift-left security)
+ c
+Manual penetration testing
+ d
+Continuous integration
+Question 16 (1 point)
+A user posts <script>alert("Hacked");</script> and it executes on others' screens.
+What attack is this?
+
+ a
+SQL Injection
+ b
+Ransomware
+ c
+CSRF
+ d
+XSS
+Question 17 (1 point)
+An application that fails to validate user input properly is vulnerable to:
+
+ a
+Authentication bypass only
+ b
+Cloud misconfigurations
+ c
+SQL injection and XSS attacks
+ d
+Encryption failures
+Question 18 (1 point)
+Why is 'shift-left' security important in application development?
+
+ a
+It reduces the need for security testing
+ b
+It focuses only on post-deployment security
+ c
+It eliminates the need for security teams
+ d
+It allows for earlier detection and mitigation of vulnerabilities
+Question 19 (1 point)
+Which of the following is a common challenge in application security?
+
+ a
+Simplifying application features
+ b
+Reducing development velocity
+ c
+Ensuring consistent implementation across all teams
+ d
+Eliminating the need for security measures
+Question 20 (1 point)
+Which of the following best describes 'penetration testing' in application security?
+
+ a
+Testing the application's performance under load
+ b
+Simulating cyberattacks to identify vulnerabilities
+ c
+Evaluating the application's user interface design
+ d
+Assessing user satisfaction with the application
+Question 21 (1 point)
+Which practice involves embedding security measures throughout the development process in cloud-native environments?
+
+ a
+Shift-left security
+ b
+Network segmentation
+ c
+Perimeter defense
+ d
+Post-deployment testing
+Question 22 (1 point)
+A software bill of materials (SBOM) in application security is used to:
+
+ a
+Monitor network traffic
+ b
+Identify application bugs
+ c
+Track user purchases
+ d
+List components used in a software application
+Question 23 (1 point)
+What does 'ASOC' stand for in the context of application security?
+
+ a
+Automated Security Operations Control
+ b
+Advanced System Operations Center
+ c
+Application Security Orchestration and Correlation
+ d
+Application System Optimization and Compliance
+Question 24 (1 point)
+Which of the following is a benefit of Runtime Application Self-Protection (RASP)?
+
+ a
+Simplified user navigation
+ b
+Real-time attack detection and prevention
+ c
+Enhanced application performance
+ d
+Improved application aesthetics
+Question 25 (1 point)
+Dynamic Application Security Testing (DAST) operates by:
+
+ a
+Reviewing developer logs
+ b
+Testing applications during runtime without source code access
+ c
+Scanning the code before compilation
+ d
+Encrypting application data
+Question 26 (1 point)
+A user walks away from a logged-in app. Another person accesses it hours later.
+What's the security flaw?
+
+ a
+Role-based access control
+ b
+Session timeout not enforced
+ c
+Lack of firewall protection
+ d
+Weak password policy
+Question 27 (1 point)
+Why is patch management important in application security?
+
+ a
+It addresses known vulnerabilities in application code
+ b
+It removes outdated content
+ c
+It improves user interface performance
+ d
+It ensures faster application loading times
+Question 28 (1 point)
+An app stores passwords in plain text on the user's device.
+What’s the risk and solution?
+
+ a
+Clickjacking; Enable CORS
+ b
+Denial of service; Use caching
+ c
+XSS; Sanitize input
+ d
+Sensitive data exposure; Hash passwords
+Question 29 (1 point)
+Which is a common application layer attack?
+
+ a
+SQL Injection
+ b
+Packet sniffing
+ c
+DDoS attack
+ d
+Man-in-the-middle attack
+Question 30 (1 point)
+What is the primary goal of application security?
+
+ a
+Increase application scalability
+ b
+Improve user interface design
+ c
+Identify and repair vulnerabilities to prevent unauthorized access
+ d
+Enhance application performance
+Question 31 (1 point)
+What is a primary challenge when implementing application security measures?
+
+ a
+Decreased application performance
+ b
+Reducing application features
+ c
+Increased development time
+ d
+Balancing strong security with development velocity
+Question 32 (1 point)
+Which of the following is NOT a common application security measure?
+
+ a
+Regular security testing
+ b
+Encryption
+ c
+Firewall implementation
+ d
+Load balancing
+Question 33 (1 point)
+A company can’t trace how a data breach happened due to lack of logs.
+What is missing?
+
+ a
+Access control
+ b
+User education
+ c
+Firewall configuration
+ d
+Security logging and monitoring
+Question 34 (1 point)
+What does 'RASP' stand for in application security?
+
+ a
+Reliable Application System Protection
+ b
+Rapid Application Security Protocol
+ c
+Remote Application Security Procedure
+ d
+Runtime Application Self-Protection
+Question 35 (1 point)
+A user changes the URL and accesses admin functionality.
+What is missing?
+
+ a
+Authentication
+ b
+Rate limiting
+ c
+Input validation
+ d
+Authorization checks
+Question 36 (1 point)
+Which of the following best describes 'threat modeling' in application security?
+
+ a
+Analyzing potential threats to identify vulnerabilities
+ b
+Implementing load testing procedures
+ c
+Designing user-friendly interfaces
+ d
+Developing marketing strategies
+Question 37 (1 point)
+Which of the following is a key component of DevSecOps?
+
+ a
+Focusing solely on network security
+ b
+Delaying security measures until post-deployment
+ c
+Isolating security from development processes
+ d
+Integrating security practices into the development lifecycle
+Question 38 (1 point)
+Which of the following best describes the purpose of a Web Application Firewall (WAF)?
+
+ a
+Block all incoming traffic
+ b
+Store application logs
+ c
+Encrypt all application data
+ d
+Filter, monitor, and block HTTP traffic to and from a web app
+Question 39 (1 point)
+Which term refers to integrating security practices into the software development lifecycle?
+
+ a
+DevSecOps
+ b
+DevOps
+ c
+Agile
+ d
+Waterfall
+Question 40 (1 point)
+What is a key benefit of implementing application security?
+
+ a
+Increased development costs
+ b
+Reduced risk from internal and third-party sources
+ c
+Longer time-to-market
+ d
+Decreased application usability
+Time left for this assessment:
+19:57
+English
+Support
+Privacy Policy
+Terms of Use
+PowerSchool © 2025
